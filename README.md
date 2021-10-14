@@ -13,4 +13,4 @@
 - Juan Perez 😎
   - Me gusta la sopa.
   - Gatos.
-  - Correr.
+  - Nadar.
