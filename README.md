@@ -1,2 +1,6 @@
-# Hello-World-GitHub
-A Hello World to learn GitHub
+# Lista de participantes.
+
+- Missael Barco 🐍
+  - Leer 📒
+  - Programar en Python 🤖
+  - Cosmología 🌌
