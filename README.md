@@ -10,7 +10,13 @@
   - I love JavaScript 💛
   - I like Volleyball 🏐
 
+
 - Juan Perez 😎
   - Me gusta la sopa.
   - Gatos.
   - Nadar.
+
+- David Lazaro 👺
+  - Fanatico de Missa 🔮
+  - Chauvinista de Missa 🚩
+  - Hincha de Future Labs 😎
