@@ -22,7 +22,7 @@
   - Hincha de Future Labs 😎
 
 - Darwin Jiménez Hernández
-  -Desarrollador jr. 👶
-  -Natación es amor, natación es vida 🏊‍♂️
-  -Miembro activo de la comunidad de Código facilito 🐊💖
+  - Desarrollador jr. 👶
+  - Natación es amor, natación es vida 🏊‍♂️
+  - Miembro activo de la comunidad de Código facilito 🐊💖
   
