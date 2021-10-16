@@ -20,8 +20,14 @@
   - Fanatico de Missa 🔮
   - Chauvinista de Missa 🚩
   - Hincha de Future Labs 😎
-
+  
 - Daniel Armas Ramírez
   - Futuro científico de datos
   - Me gusta mucho las galletas Oreo
   - Julia<sub>Lag</sub> Fanboy
+
+- Darwin Jiménez Hernández
+  - Desarrollador jr. 👶
+  - Natación es amor, natación es vida 🏊‍♂️
+  - Miembro activo de la comunidad de Código facilito 🐊💖
+  
