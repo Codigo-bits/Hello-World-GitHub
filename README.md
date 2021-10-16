@@ -20,6 +20,11 @@
   - Fanatico de Missa 🔮
   - Chauvinista de Missa 🚩
   - Hincha de Future Labs 😎
+
+ - José Angel Flores :)
+   - Atronomia.
+   - Leer.
+   - Electronica.
   
 - Daniel Armas Ramírez
   - Futuro científico de datos
