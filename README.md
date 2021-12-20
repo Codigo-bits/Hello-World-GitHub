@@ -37,6 +37,6 @@
   - Miembro activo de la comunidad de Código facilito 🐊💖
 
 - Serafín Tierrafría Báez
-  -  Aprendiendo a programar de forma colaborativa :octocat:
-  -  Python ❤️
-  -  Saludos comunidad de Future Lab 🚀
+  -  Aprendiendo a programar de forma colaborativa. :octocat:
+  -  Python. :heart:
+  -  Saludos comunidad de Future Lab. 🚀
