@@ -35,4 +35,8 @@
   - Desarrollador jr. 👶
   - Natación es amor, natación es vida 🏊‍♂️
   - Miembro activo de la comunidad de Código facilito 🐊💖
-  
+
+- Serafín Tierrafría Báez
+  -  Aprendiendo a programar de forma colaborativa :octocat:
+  -  Python ❤️
+  -  Saludos comunidad de Future Lab 🚀
